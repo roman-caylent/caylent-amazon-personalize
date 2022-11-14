@@ -1,7 +1,7 @@
 # caylent-amazon-personalize
 Amazon Personalize samples and POCs
 
-Amazon Personalize allows developers to quickly build and deploy curated recommendations and intelligent user segmentation at scale using machine learning (ML). Because Amazon Personalize can be tailored to your individual needs, you can deliver the right customer experience at the right time and in the right place.
+# Amazon Personalize allows developers to quickly build and deploy curated recommendations and intelligent user segmentation at scale using machine learning (ML). Because Amazon Personalize can be tailored to your individual needs, you can deliver the right customer experience at the right time and in the right place.
 
 ![image](https://user-images.githubusercontent.com/96081140/201748257-ad0e79b0-b76a-4e58-8b8d-f04262ddc8f8.png)
 
