@@ -3,11 +3,11 @@ Amazon Personalize samples and POCs
 
 ## Amazon Personalize allows developers to quickly build and deploy curated recommendations and intelligent user segmentation at scale using machine learning (ML). Because Amazon Personalize can be tailored to your individual needs, you can deliver the right customer experience at the right time and in the right place.
 
-NB! Please delete all datasets and canpaingns after your experiments to avaid extra charges !!!
+NB! Please delete all datasets and campaigns after your experiments to avoid extra charges !!!
 
 ![image](https://user-images.githubusercontent.com/96081140/201748257-ad0e79b0-b76a-4e58-8b8d-f04262ddc8f8.png)
 
-##  You can replicate Amazon Personalize samples from aws-sapmles repository:
+##  You can replicate Amazon Personalize samples from aws-samples repository:
 
 1. Following this link, create a repo on Caylent’s GitHub account and deploy the project running the following commands:
 
@@ -29,13 +29,14 @@ sam deploy --guided
 
 5. Navigate to your email inbox and confirm your subscription to the SNS topic
 
-## You can replecate Amazon Personalize Immersion Day samples from aws-samples repository:
+## You can replicate Amazon Personalize Immersion Day samples from aws-samples repository:
 
 https://github.com/aws-samples/amazon-personalize-immersion-day
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/c5a0c80f-1a42-442c-b2c0-956b38d4dc48/en-US
 
 ## You can call Amazon Personalize from SageMaker notebooks using boto3 library. Please find notebooks in the repository.
+
 
 
 
